@@ -1,8 +1,8 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add expo-font@~10.2.0 @expo-google-fonts/inter
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add --dev @types/react@~18.0.0
 
 PATH: 
-  C:\Users\User\Codes\nlw\esports\mobile\node_modules\.bin;C:\Users\User\Codes\nlw\esports\node_modules\.bin;C:\Users\User\Codes\nlw\node_modules\.bin;C:\Users\User\Codes\node_modules\.bin;C:\Users\User\node_modules\.bin;C:\Users\node_modules\.bin;C:\node_modules\.bin;C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\run-script\lib\node-gyp-bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Program Files\OpenJDK\openjdk-11.0.14.1_1\bin;C:\Android\Sdk\emulator;C:\Android\Sdk\tools;C:\Android\Sdk\tools\bin;C:\Android\Sdk\platform-tools;C:\Users\User\AppData\Local\Yarn\bin;;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Yarn\bin;C:\Users\User\AppData\Roaming\npm;C:\Users\User\AppData\Local\Programs\Hyper\resources\bin;C:\Users\User\Codes\nlw\esports\mobile\node_modules\.bin
+  C:\Users\User\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\User\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin;C:\Program Files\nodejs;C:\Program Files\OpenJDK\openjdk-11.0.14.1_1\bin;C:\Android\Sdk\emulator;C:\Android\Sdk\tools;C:\Android\Sdk\tools\bin;C:\Android\Sdk\platform-tools;C:\Users\User\AppData\Local\Yarn\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Yarn\bin;C:\Users\User\AppData\Roaming\npm;C:\Users\User\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
 
 Yarn version: 
   1.22.5
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, open 'C:\Users\User\Codes\nlw\esports\mobile\yarn.lock'
+  Error: EPERM: operation not permitted, open 'C:\Users\User\Codes\nlw\esports\mobile\package.json'
 
 npm manifest: 
   {
